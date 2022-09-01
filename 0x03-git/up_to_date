@@ -1,1 +1,5 @@
-touch
+touch up_to_date
+git commit -m "How to be up to date in git"
+git branch -M main
+git remote add origin https://github.com/Richmond543/alx-zero_day.git
+git push -u origin main
